@@ -1,2 +1,6 @@
-# atelier
-Meu primeiro site realizado, para o atelier da Vera.
+## CURSO DE GIT
+
+## Gravando mudanças no repositório
+
+## Salvando modificações no Git
+
