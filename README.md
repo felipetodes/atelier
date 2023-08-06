@@ -7,3 +7,5 @@
 *USO DO COMANDO DO GIT RESTORE
 
 *comando git push
+
+*Comando git pull
